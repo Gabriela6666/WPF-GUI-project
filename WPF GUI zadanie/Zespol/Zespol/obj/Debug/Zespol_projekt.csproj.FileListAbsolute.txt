@@ -1,0 +1,7 @@
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\WPF GUI zadanie\Zespol\Zespol\bin\Debug\Zespol.exe.config
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\WPF GUI zadanie\Zespol\Zespol\bin\Debug\Zespol.exe
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\WPF GUI zadanie\Zespol\Zespol\bin\Debug\Zespol.pdb
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\WPF GUI zadanie\Zespol\Zespol\obj\Debug\Zespol_projekt.csprojAssemblyReference.cache
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\WPF GUI zadanie\Zespol\Zespol\obj\Debug\Zespol_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\WPF GUI zadanie\Zespol\Zespol\obj\Debug\Zespol.exe
+C:\Users\Lenovo G510\Desktop\Visual Studio moje projekty\WPF GUI zadanie\Zespol\Zespol\obj\Debug\Zespol.pdb
